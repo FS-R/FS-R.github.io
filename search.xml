@@ -8,7 +8,7 @@
       <link href="/archives/0.html"/>
       <url>/archives/0.html</url>
       
-        <content type="html"><![CDATA[<h2 id="采用hexo架构"><a href="#采用hexo架构" class="headerlink" title="采用hexo架构"></a>采用hexo架构</h2><pre><code>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。简单易安装，具体可参考hexo说明文档：[文档|hexo](https://hexo.io/zh-cn/docs/index.html)。</code></pre><h2 id="采用butterfly主题"><a href="#采用butterfly主题" class="headerlink" title="采用butterfly主题"></a>采用butterfly主题</h2><pre><code>即本网站所表现的布局形式。可直接在GitHub内搜索，可参考文档[文档|butterfly](https://butterfly.js.org/categories/Docs%E6%96%87%E6%AA%94/)</code></pre>]]></content>
+        <content type="html"><![CDATA[<h2 id="采用hexo架构"><a href="#采用hexo架构" class="headerlink" title="采用hexo架构"></a>采用hexo架构</h2><p>Hexo 是一个快速、简洁且高效的博客框架。<br>Hexo 使用 Markdown（（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>简单易安装，具体可参考hexo说明文档：<a href="https://hexo.io/zh-cn/docs/index.html">文档|hexo</a>。</p><h2 id="采用butterfly主题"><a href="#采用butterfly主题" class="headerlink" title="采用butterfly主题"></a>采用butterfly主题</h2><p>即本网站所表现的布局形式。<br>可直接在GitHub内搜索，可参考文档<a href="https://butterfly.js.org/categories/Docs%E6%96%87%E6%AA%94/">文档|butterfly</a></p>]]></content>
       
       
       
