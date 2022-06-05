@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title></title>
+      <title>关于网站搭建介绍</title>
       <link href="/archives/0.html"/>
       <url>/archives/0.html</url>
       
-        <content type="html"><![CDATA[<p>title: 关于网站搭建介绍<br>date: 2022-6-5 23：00：00<br>tags:<br>top_img: .&#x2F;img&#x2F;2.jpg<br>cover: .&#x2F;img&#x2F;2.jpg<br>sticky: 1<br>abbrlink: bdb6f36d</p><hr><p>##采用hexo架构</p><p>Hexo 是一个快速、简洁且高效的博客框架。<br>Hexo 使用 Markdown（（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>简单易安装，具体可参考hexo说明文档：<a href="https://hexo.io/zh-cn/docs/index.html">文档|hexo</a>。<br>##采用butterfly主题<br>    即本网站所表现的布局形式。<br>可直接在GitHub内搜索，可参考文档<a href="https://butterfly.js.org/categories/Docs%E6%96%87%E6%AA%94/">文档|butterfly</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一个文章</title>
-      <link href="/archives/bdb6f36c.html"/>
-      <url>/archives/bdb6f36c.html</url>
-      
-        <content type="html"><![CDATA[<p>陈蕾</p>]]></content>
+        <content type="html"><![CDATA[<p>##采用hexo架构</p><p>Hexo 是一个快速、简洁且高效的博客框架。<br>Hexo 使用 Markdown（（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。<br>简单易安装，具体可参考hexo说明文档：<a href="https://hexo.io/zh-cn/docs/index.html">文档|hexo</a>。<br>##采用butterfly主题<br>    即本网站所表现的布局形式。<br>可直接在GitHub内搜索，可参考文档<a href="https://butterfly.js.org/categories/Docs%E6%96%87%E6%AA%94/">文档|butterfly</a></p>]]></content>
       
       
       
